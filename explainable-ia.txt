@@ -1,0 +1,6 @@
+ai-systems: unspecified
+ai-uses: assist, rewrite, summarize
+io-handling: user-input → model → no-storage
+explanations: simple
+limitations: non-deterministic
+sha256: beeea3e00768876934ec2aceeb3a9ab2ff756132d00034ecb0b9eb0541f29b98
